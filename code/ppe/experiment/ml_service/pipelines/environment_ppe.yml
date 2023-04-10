@@ -1,6 +1,5 @@
 name: ppe
-channels:
-  - defaults
+
 dependencies:
   - python==3.6
   - pip==19.1.1
